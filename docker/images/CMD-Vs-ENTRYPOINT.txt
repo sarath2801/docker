@@ -10,9 +10,6 @@ Docker run -d test
 Docker run -it test google.com
 
 
-
-
-
 Dockerfile:
 FROM debian:wheezy
 CMD ["/bin/ping", "localhost"]
