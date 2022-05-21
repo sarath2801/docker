@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-mongo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docker/images/code/spring-boot-mongo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
